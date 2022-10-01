@@ -34,7 +34,6 @@
 
 #include <linux/videodev2.h>
 
-#include <mpeg2-ctrls.h>
 #include <h264-ctrls.h>
 #include <hevc-ctrls.h>
 
